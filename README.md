@@ -1,8 +1,9 @@
 # 💫 About Me:
 **Salve salve! Eu sou o Moisés Lucarelly('-')**<br><br>- 🎒 Technology student UFERSA-PDF<br>- 💻 Back-end development<br>- 📒 Studying C 
 
-<div class="tenor-gif-embed" data-postid="13271998" data-share-method="host" data-aspect-ratio="1.33663" data-width="100%"><a href="https://tenor.com/view/working-from-home-computer-homework-gif-13271998">Working From GIF</a>from <a href="https://tenor.com/search/working-gifs">Working GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<p align="center">
+  <img width="250" src="https://tenor.com/view/working-from-home-computer-homework-gif-13271998">
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisés-lucarelly-459421305) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucarelly7/)
