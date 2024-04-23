@@ -1,6 +1,7 @@
 # 💫 About Me:
-**Salve salve! Eu sou o Moisés Lucarelly('-')**<br><br>- 🎒 Technology student UFERSA-PDF<br>- 💻 Back-end development<br>- 📒 Studying C 
+![LET'S CODING](https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif)
 
+**Salve salve! Eu sou o Moisés Lucarelly('-')**<br><br>- 🎒 Technology student UFERSA-PDF<br>- 💻 Back-end development<br>- 📒 Studying C 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisés-lucarelly) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucarelly7/)
